@@ -1,0 +1,16 @@
+filename = 'twilightdelight-3.0.5.jar'
+name = "Twilight's Flavor & Delight"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '735ac027d04c8319ec1b5d04af0464e7b3e50d63a579fc75b40d4a60e9bf6072db693d7bc5c500900270c4827fbf7f25f29a4743d7fc95f87cecc693bedbb530'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/d6cSefpO/versions/BclnmgrR/twilightdelight-3.0.5.jar'
+
+[update.modrinth]
+mod-id = 'd6cSefpO'
+version = 'BclnmgrR'

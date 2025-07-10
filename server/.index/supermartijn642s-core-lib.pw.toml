@@ -1,0 +1,16 @@
+filename = 'supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar'
+name = "SuperMartijn642's Core Lib"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6f37d2f76928f1421d7ec4f60dead6ad806606f7a25f0545c547316513284f309396b221749328579c76d75a70fdf22e6f953b27abc5c78f2c2d68f2dfa545bb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rOUBggPv/versions/I55kQvEh/supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar'
+
+[update.modrinth]
+mod-id = 'rOUBggPv'
+version = 'I55kQvEh'

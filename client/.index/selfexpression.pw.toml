@@ -1,0 +1,16 @@
+filename = 'selfexpression-2.21.4-neoforge-1.21.1.jar'
+name = 'Selfexpression'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '5b7db646c37a414be67ec6e76dcce7e52536487a3da9e5a874cd30c057ac13f186531603321f0a986c66edb311da8a6786aa8600267d7e8abf6b555225598d20'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yv3OK08E/versions/u0ZbsQ7O/selfexpression-2.21.4-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'yv3OK08E'
+version = 'u0ZbsQ7O'

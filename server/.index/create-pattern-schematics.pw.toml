@@ -1,0 +1,16 @@
+filename = 'create_pattern_schematics-2.0.9.jar'
+name = 'Create: Pattern Schematics'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '17b52b3af29f6f4e58a33ad5ffc99c16435ef720f90158cf918f94af12ea9cce67695de8f6f45d0ab0a0bb03607cf7c887cb00b28828fd088d56fc5d49b8115a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cpqKG67r/versions/8uY8HiNA/create_pattern_schematics-2.0.9.jar'
+
+[update.modrinth]
+mod-id = 'cpqKG67r'
+version = '8uY8HiNA'

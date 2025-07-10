@@ -1,0 +1,16 @@
+filename = 'framework-neoforge-1.21.1-0.9.6.jar'
+name = 'Framework'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '5a6b6c61b856098bfe8c9d35b92638ddbc14da27'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6531439
+project-id = 549225

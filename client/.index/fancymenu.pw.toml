@@ -1,0 +1,16 @@
+filename = 'fancymenu_neoforge_3.6.2_MC_1.21.1.jar'
+name = 'FancyMenu'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '90ac5282200dc67b741523868339fc6c869ca5b55e9db523527e3882c6902d9f3495fd4808bfb6e2f171ee53a0c076d8ab4727325b3d617fd7582748dc6fe734'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Wq5SjeWM/versions/IlsbDzCO/fancymenu_neoforge_3.6.2_MC_1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'Wq5SjeWM'
+version = 'IlsbDzCO'

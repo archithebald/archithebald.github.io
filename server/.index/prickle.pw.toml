@@ -1,0 +1,16 @@
+filename = 'prickle-neoforge-1.21.1-21.1.8.jar'
+name = 'Prickle'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '40025298c04099ac3f61f6d3095a03f949e46e6508414372662499f51e1161dcf99563f8ca2f3686755fdceba479da1aa653d247da5ec12a883b31741fcb6aa7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aaRl8GiW/versions/u5HZtlyZ/prickle-neoforge-1.21.1-21.1.8.jar'
+
+[update.modrinth]
+mod-id = 'aaRl8GiW'
+version = 'u5HZtlyZ'

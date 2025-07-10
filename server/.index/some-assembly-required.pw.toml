@@ -1,0 +1,16 @@
+filename = 'someassemblyrequired-5.1.2.jar'
+name = 'Some Assembly Required'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1956d632b6151d86a765003feb217dc9a027f156fcb6af13e2dd6d83c1075848aefde8b235acff64a99939c071d798bdb2ef61dfeb84beb2f071f0591585b4d1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jZi8ogTA/versions/U63Q6A3m/someassemblyrequired-5.1.2.jar'
+
+[update.modrinth]
+mod-id = 'jZi8ogTA'
+version = 'U63Q6A3m'

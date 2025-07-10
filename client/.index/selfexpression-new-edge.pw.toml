@@ -1,0 +1,16 @@
+filename = 'selfexpression_new_edge-1.0-neoforge-1.21.1.jar'
+name = 'Selfexpression: New Edge'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '67ebcea7f47f9c607af06b57e35365c8eb157b14fe869b575894f17f4569ed074018bb8909de389049b1978202bb22e545ad51efec1abe470a361d6f6d643fd9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HQ1C1y22/versions/hVBarD8e/selfexpression_new_edge-1.0-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'HQ1C1y22'
+version = 'hVBarD8e'

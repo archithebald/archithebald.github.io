@@ -1,0 +1,16 @@
+filename = 'extra_gauges-1.1.1.jar'
+name = 'Create: Extra Gauges'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ff4911ddcf474ac3e8fe88368d63b91e50f8a6be'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6566007
+project-id = 1263228

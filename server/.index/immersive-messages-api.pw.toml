@@ -1,0 +1,16 @@
+filename = 'immersivemessages-neoforge-1.0.18-1.21.1.jar'
+name = 'Immersive Messages API'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '81531beec41144722defa7887a7bf0a4838be777826d293e5dd789480864ef3f70dfde762f7a32142f933f07de0ea146fe621e98b844434f086bb9c54bb07266'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6xvrmbjn/versions/VMWHOnc1/immersivemessages-neoforge-1.0.18-1.21.1.jar'
+
+[update.modrinth]
+mod-id = '6xvrmbjn'
+version = 'VMWHOnc1'

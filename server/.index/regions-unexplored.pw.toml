@@ -1,0 +1,16 @@
+filename = 'regions_unexplored-neoforge-1.21.1-0.5.6.1.jar'
+name = 'Regions Unexplored'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1823539c0bcde93652899317ef046b59fd836aef3cbaa543c0d1ae143527a73adfab33e2bd72c4f3e9345993d187497320bc52d5c93f3b6918b040e1e50c87b9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Tkikq67H/versions/jITSrhFt/regions_unexplored-neoforge-1.21.1-0.5.6.1.jar'
+
+[update.modrinth]
+mod-id = 'Tkikq67H'
+version = 'jITSrhFt'

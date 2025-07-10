@@ -1,0 +1,13 @@
+filename = 'improved-village-placement-1.1.1.jar'
+name = 'Improved Village Placement'
+side = 'server'
+
+[download]
+hash = 'e2cd437dbeafaaa035e5427e175da21a2fa203fc14d1f60d939b2751989464d4b2ccdd7d9aaa18806a33ccea00f06709e3fb554218b9ea6462c06700e206cb41'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KA0MllEw/versions/A9qu7ToP/improved-village-placement-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'KA0MllEw'
+version = 'A9qu7ToP'

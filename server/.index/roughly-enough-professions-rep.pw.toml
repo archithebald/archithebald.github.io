@@ -1,0 +1,16 @@
+filename = 'RoughlyEnoughProfessions-neoforge-1.21.1-4.0.3.jar'
+name = 'Roughly Enough Professions (REP)'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cb56314c06a2d3802e4b0c054d7f00171f19d6c29b09536f3b7e926e52157d63139fb41cf5e19c468ca143b34ec0c5148329800a00743c16e228619eb43575f4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/V8XJ8f5f/versions/pqsVPf02/RoughlyEnoughProfessions-neoforge-1.21.1-4.0.3.jar'
+
+[update.modrinth]
+mod-id = 'V8XJ8f5f'
+version = 'pqsVPf02'

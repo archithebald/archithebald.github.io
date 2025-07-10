@@ -1,0 +1,13 @@
+filename = 'valhelsia_structures-neoforge-1.21.1-1.1.1.jar'
+name = 'Valhelsia Structures'
+side = 'both'
+
+[download]
+hash = 'dbf345a924ba4e2fe94e56e031af7e2311fbceeba0ac36b9437f64832cf72dd79a4cea926b59d92e26355d986a33388bc1c325f951651b2913d95eafd576e021'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/T21szC0a/versions/WlTXhPfE/valhelsia_structures-neoforge-1.21.1-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'T21szC0a'
+version = 'WlTXhPfE'

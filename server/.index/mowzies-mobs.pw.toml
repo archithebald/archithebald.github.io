@@ -1,0 +1,16 @@
+filename = 'mowziesmobs-1.21.1-1.7.5.jar'
+name = "Mowzie's Mobs"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '993083b33a9a35e415616e1e04af8e6ce487c8c4bd6fc745dc0b26133f21f5d0fbd5da5de193ac7c10d973f7eb6d249dd03e86d09661a87fcc8b2d81912f69c5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BFbX9xcm/versions/P2hiyNDT/mowziesmobs-1.21.1-1.7.5.jar'
+
+[update.modrinth]
+mod-id = 'BFbX9xcm'
+version = 'P2hiyNDT'

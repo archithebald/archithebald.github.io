@@ -1,0 +1,16 @@
+filename = 'cmparallelpipes-1.21.1-1.1.0.jar'
+name = 'Create More: Parallel Pipes'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'df36f653b3bc00f589569df34d31bf4a0a37d4ed3d2dd2d6159903cd1c2e8df3cfb6325e9062fc3d5039d42ceca7f41c67732bd0a868843a4d85ba35c0486310'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5jfUeix5/versions/43LHGSAR/cmparallelpipes-1.21.1-1.1.0.jar'
+
+[update.modrinth]
+mod-id = '5jfUeix5'
+version = '43LHGSAR'

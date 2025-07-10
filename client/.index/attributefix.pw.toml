@@ -1,0 +1,16 @@
+filename = 'attributefix-neoforge-1.21.1-21.1.2.jar'
+name = 'AttributeFix'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bbfe003ed29a2bb0b4dd0a61d64b411748c9f5cb48ccbfd954dd2d813c452c540638749b6f19e7472e44ae1e966a3629b135190ffba3099cfdf45355618c0b97'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lOOpEntO/versions/a0oKmnPU/attributefix-neoforge-1.21.1-21.1.2.jar'
+
+[update.modrinth]
+mod-id = 'lOOpEntO'
+version = 'a0oKmnPU'

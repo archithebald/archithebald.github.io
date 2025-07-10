@@ -1,0 +1,16 @@
+filename = 'molten_vents-1.21.1-2.1.0.jar'
+name = 'Create: Molten Vents'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dbc32ccb6b338de6043b86de8793be2dda27307092480a8a7526ca52affeda8cd71f0cfe562db9a35e14c417db23a7e956fb46cb37b30f12d9a529c4f0170961'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uuVy6k1s/versions/EYHhaAuB/molten_vents-1.21.1-2.1.0.jar'
+
+[update.modrinth]
+mod-id = 'uuVy6k1s'
+version = 'EYHhaAuB'

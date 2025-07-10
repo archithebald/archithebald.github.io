@@ -1,0 +1,16 @@
+filename = 'sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar'
+name = 'Sodium/Embeddium Dynamic Lights'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6044477
+project-id = 551736

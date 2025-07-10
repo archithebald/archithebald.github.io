@@ -1,0 +1,16 @@
+filename = 'BrewinAndChewin-neoforge-4.4.1+1.21.1.jar'
+name = "Brewin' And Chewin'"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c53ee19fc5859fee33e5b12b1ff52d9f60e9a6497f469c0a9e27816a1b9e6e899283d0e1732ee5f292c5a377215e929b56f4a9625e62e5e16beb232fd856ddd2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hIu9KJTT/versions/1OnUtwc4/BrewinAndChewin-neoforge-4.4.1%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'hIu9KJTT'
+version = '1OnUtwc4'

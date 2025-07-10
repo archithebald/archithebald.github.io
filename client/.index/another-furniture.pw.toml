@@ -1,0 +1,16 @@
+filename = 'another_furniture-neoforge-4.0.0.jar'
+name = 'Another Furniture'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e80fe82d0841c3364ebc311007960455cc6d4f830b7e12fbcec67a1b5dabd22522ac2b1d1e0dd065e4220f9921a2024bf65ef410c5a576227bed8a9c33e40090'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ulloLmqG/versions/QB6CceI5/another_furniture-neoforge-4.0.0.jar'
+
+[update.modrinth]
+mod-id = 'ulloLmqG'
+version = 'QB6CceI5'

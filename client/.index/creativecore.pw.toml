@@ -1,0 +1,16 @@
+filename = 'CreativeCore_NEOFORGE_v2.13.7_mc1.21.1.jar'
+name = 'CreativeCore'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ab0f95c8127ea248592e26120a2aedc15ffb91ba27fce1da318d1cb3cfcea6accdacb334076363955f99d4d12816c3e4546298e0ec8b9bda223062f4e5c8b33b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OsZiaDHq/versions/jy6rEC2t/CreativeCore_NEOFORGE_v2.13.7_mc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'OsZiaDHq'
+version = 'jy6rEC2t'

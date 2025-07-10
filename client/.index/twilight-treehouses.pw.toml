@@ -1,0 +1,16 @@
+filename = 'TwilightTreehouses-1.0.2-1.21.1-neoforge.jar'
+name = 'Twilight Treehouses'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '03a901c5c08eb76a6b8dccf5f4d74f28daae9542f04321b754e9ab1f2e9bebbeac905a5afe1d69c5bef107f9ed78cc58a3695a8c212e8ac043cf1cb9cc1613de'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lkU3QIjf/versions/AYZoDZat/TwilightTreehouses-1.0.2-1.21.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'lkU3QIjf'
+version = 'AYZoDZat'

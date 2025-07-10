@@ -1,0 +1,16 @@
+filename = 'Resourcify (1.21.1-neoforge)-1.7.3.jar'
+name = 'Resourcify'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9968b025f1113d578d88181952fb60702e7b04024f17bbb419d265f289738458cad2905c84c19222a43d92d2486ee2b74a3dcd009cf2bfb98ec9dcc13c8058d0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RLzHAoZe/versions/kjwbjFbQ/Resourcify %281.21.1-neoforge%29-1.7.3.jar'
+
+[update.modrinth]
+mod-id = 'RLzHAoZe'
+version = 'kjwbjFbQ'

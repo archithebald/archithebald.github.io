@@ -1,0 +1,16 @@
+filename = 'AetherVillages-1.21.1-1.0.8-neoforge.jar'
+name = 'Aether Villages'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6721d6fcc1b3d5135facef730cdcca3accbae7e8f9a241b3ac2120242d8b8b6b91de5770a84edda57de16a041a8b8025dac6d7d21527a2d782dc844221c4e8b3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3P2XnNW6/versions/9l6te4eG/AetherVillages-1.21.1-1.0.8-neoforge.jar'
+
+[update.modrinth]
+mod-id = '3P2XnNW6'
+version = '9l6te4eG'

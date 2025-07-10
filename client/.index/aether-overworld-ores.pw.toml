@@ -1,0 +1,16 @@
+filename = 'aether_overworld_ores-1.21.1-1.0.0-neoforge.jar'
+name = 'Aether Addon: Overworld Ores'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '79ea42958b1366285a50463b24f03ee3213093895c0899f1707fc2fcdcaf24308313a8d3e3a4dc230df28db0cd07ddc3be8f84a8701030dfe2874ca631572d26'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Nipqb0qe/versions/I8yzEqcM/aether_overworld_ores-1.21.1-1.0.0-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'Nipqb0qe'
+version = 'I8yzEqcM'
