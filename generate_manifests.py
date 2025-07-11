@@ -2,6 +2,9 @@ import os, json
 
 BASE_URL = "https://archithebald.github.io"
 
+def get_mod_bytes(mod, side):
+    return os.path.getsize(os.path.join(os.getcwd(), side, mod))
+
 def get_mods(side: str):
     mods_list = []
 
@@ -11,7 +14,8 @@ def get_mods(side: str):
                 "name": file.rsplit('.', 1)[0],
                 "file": file,
                 "url": f"{BASE_URL}/{side}/{file}",
-                "version": "1.0.0"  
+                "version": "1.0.0",
+                "bytes": get_mod_bytes(file, side)
             })
             
     return mods_list
