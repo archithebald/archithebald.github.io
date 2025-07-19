@@ -1,0 +1,16 @@
+filename = 'BadOptimizations-2.3.0-1.21.1.jar'
+name = 'BadOptimizations'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0d759c0996fbfc1ed4066170351722e6d9e52884'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6743002
+project-id = 949555

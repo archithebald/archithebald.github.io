@@ -1,16 +1,16 @@
-filename = 'create_extra_casing-4.0.2-NeoForge-1.21.1.jar'
-name = 'Create Extra Casing'
+filename = 'create_extra_casing-4.0.3.jar'
+name = 'Create: Extra Casing'
 side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '331a4beb5e5ce57feaef09c3af027e231108f819695dfb276f804c318f6aaa0ae5cbd474ee9abc32c3984d9a5c6714a82b5c8b3f8f40f5a7b1875662204d1385'
+hash = '15f13dc53d674fb549b2b9e816c9ebf4f9c6cb5a7fc3dd3439c48824b6c9da0093205c8d4375e106fcc97ec92ad740a3356a81a83983010990dc9daf4d3f1b56'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/yEGVcr59/versions/p6KTl7zO/create_extra_casing-4.0.2-NeoForge-1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/yEGVcr59/versions/7tky2h30/create_extra_casing-4.0.3.jar'
 
 [update.modrinth]
 mod-id = 'yEGVcr59'
-version = 'p6KTl7zO'
+version = '7tky2h30'

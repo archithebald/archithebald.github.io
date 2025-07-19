@@ -1,0 +1,16 @@
+filename = 'setworldspawnpoint-1.21.1-3.5.jar'
+name = 'Set World Spawn Point'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cdc7706be02a59b06f49276e09b1713e4a62d32af7cd6778a5bce5db33821d454b030b2f8b10b71eb3686ecaea5ec1b35b10d7105a5b33d23ae237d199b3ce89'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EL8fq1gi/versions/9jApRI0P/setworldspawnpoint-1.21.1-3.5.jar'
+
+[update.modrinth]
+mod-id = 'EL8fq1gi'
+version = '9jApRI0P'

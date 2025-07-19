@@ -1,0 +1,16 @@
+filename = 'MaFgLib-0.3.6-mc1.21.1.jar'
+name = 'MaFgLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e488145b523fda7b62ddbdce0ccbbe5b5ed1e34b7568ee8657ca69755f06efbedba38a73238832c4525ca3456d64c368d18a37282f11d19e69bd774e62c33ac8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SKI34J7B/versions/kkzEnIXv/MaFgLib-0.3.6-mc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'SKI34J7B'
+version = 'kkzEnIXv'

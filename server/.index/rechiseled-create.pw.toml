@@ -1,4 +1,4 @@
-filename = 'rechiseledcreate-1.0.2-neoforge-mc1.21.jar'
+filename = 'rechiseledcreate-1.0.2a-neoforge-mc1.21.jar'
 name = 'Rechiseled: Create'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'be16db7a79b119d55a7a2734a384e5acb0820923b35207b36ec7b38026d1b667a2a3477a51d596693d899cd294991ae2e63db6f4ac30ec95f9facf943ffb0e8b'
+hash = '5fcb978c04e3bff7b5a60e2589f0fd206169c6b26828a3c310aeb93d52ec93f594986006ac2d507d049a3b9ac8d1089a255034c7c7948cd3945b135581ee6cce'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/E6867niZ/versions/TaIWg8nP/rechiseledcreate-1.0.2-neoforge-mc1.21.jar'
+url = 'https://cdn.modrinth.com/data/E6867niZ/versions/nVRC1t23/rechiseledcreate-1.0.2a-neoforge-mc1.21.jar'
 
 [update.modrinth]
 mod-id = 'E6867niZ'
-version = 'TaIWg8nP'
+version = 'nVRC1t23'

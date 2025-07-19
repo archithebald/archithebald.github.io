@@ -1,0 +1,16 @@
+filename = 'FazRoleplayClothes-Neo1.21.1-1.6.1.jar'
+name = "Faz's Roleplay Clothes"
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd82a48b3e830611a4bd9e006193f1bc30f19cc8b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6744704
+project-id = 1250026
